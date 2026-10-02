@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Bhagath Raj Ambedkar",
+  "jobTitle": "Computer Science Professional",
+  "description": "Computer Science Professional | Programmer | Machine Learning & Cybersecurity Enthusiast",
+  "email": "yerpulabhagathrajambedkar@gmail.com",
+  "telephone": "+91-83094 19083",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Hyderabad",
+    "addressCountry": "India"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Vignan Institute of Technology and Science, JNTUH"
+  },
+  "knowsAbout": ["Computer Science", "Machine Learning", "Cybersecurity", "Programming", "Python", "Java", "C", "C++"]
+}
